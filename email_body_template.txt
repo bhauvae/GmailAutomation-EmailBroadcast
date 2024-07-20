@@ -1,0 +1,20 @@
+Dear {receiver_name} {salutation},
+
+I trust this message finds you in good health. My name is Bhavya Tyagi, an undergraduate student currently pursuing a Bachelor of Management Studies (BMS) at Shaheed Sukhdev College of Business Studies, University of Delhi. I am writing to express my strong interest in securing an internship at {company_name}. I have a deep interest in the fields of finance, consulting, strategy, analytics and research and would like to contribute to the organisation in a similar domain, but I am open to other job profiles as well.
+
+I have gained valuable experience as a research intern at SATTVA Consulting, a mission-driven impact consulting firm. In this role, I conducted extensive secondary research, conducted primary interviews, and applied data analytics techniques to support projects related to impact assessment and social programs. My previous experience as a research intern at FAAD NETWORK, an investor network platform hand holding early stage startups, which was also featured on SHARK TANK India, provided me with valuable insights into research methodologies and data analysis. I am adept at conducting in-depth research, synthesizing information, and drawing strategic insights.
+
+I have proficiency in Python, Excel, and C programming, skills I have developed through both my coursework and personal projects. My GitHub profile is a testament to my dedication to these fields, with 25 active repositories and significant contributions to various machine learning and financial projects.
+
+One of my current projects is an Automated Short Form Video Creation Pipeline, which programmatically generates content for social media platforms using Natural Language Processing (NLP) techniques, including sentence punctuation, speech transcription, and more. I have also worked on an ensemble machine learning model that predicts changes in NSE stock prices over a 5-day period. Additionally, I have experience developing sentiment analyzers and web scrapers.
+
+I have attached my resume for your perusal, and would be honored to discuss potential opportunities. Please feel free to reach me out through Linkedin, email or phone number at any time.
+
+I am eager to learn more about potential opportunities and how I can contribute to the success of {company_name}. Thank you for considering my application.
+
+Looking forward to a positive response and working under you. 
+
+Sincerely,
+Bhavya Tyagi 
+Email: 
+Phone Number: 
